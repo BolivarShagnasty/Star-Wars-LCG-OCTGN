@@ -1,5 +1,9 @@
 Changelog - Star Wars LCG OCTGN Game Definition
 ===============================================
+### 2.39.0.x
+
+Promise of Power has been added
+
 ### 2.38.0.x
 
 Trust in the Force has been added
