@@ -1,7 +1,12 @@
 =====Message of the Day======
 
-Promise of Power is now available. The set is unscripted.
+The Legends of the Force fan-made cycle has been added to the game unscripted. These cards are
+currently unofficical, but are being playtested by the Star Wars LCG Council (the
+volunteer player committee providing continuing support for the game). If using these
+cards please make note in your room name.
 
+Please submit playtesting feedback here:
+http://www.cardgamedb.com/forums/index.php?/topic/40027-thoughts-about-the-legends-cycle-report-playtesting-feedback-here/
 
 Come join us on the SW:LCG Discord Server. You can text chat with other players as well as
 use the voice channels to interact with your OCTGN opponents.

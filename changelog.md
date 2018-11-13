@@ -1,5 +1,9 @@
 Changelog - Star Wars LCG OCTGN Game Definition
 ===============================================
+### 2.40.0.x
+
+Legends of the Force cycle has been added
+
 ### 2.39.0.x
 
 Promise of Power has been added
